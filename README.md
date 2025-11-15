@@ -27,9 +27,9 @@ SRCNN-Project/
 ├── README.md             # This file
 │
 ├── results/              # Generated SR/LR/HR images (created after testing)
-│   ├── lr_0.png
-│   ├── sr_0.png
-│   └── hr_0.png
+│   ├── lr.png
+│   ├── sr.png
+│   └── hr.png
 │
 └── plots/                # Training curves (loss, PSNR, SSIM)
 ```
@@ -108,9 +108,9 @@ Stored in `/content/plots/`:
 
 ### 9️ Testing & Result Generation
 Generates:
-- `/content/results/lr_0.png`
-- `/content/results/sr_0.png`
-- `/content/results/hr_0.png`
+- `/content/results/lr.png`
+- `/content/results/sr.png`
+- `/content/results/hr.png`
 
 ### 10 Visualize Output
 Use:
@@ -137,7 +137,7 @@ Saved to: `/content/plots/`
 
 |  LR Input   | SRCNN Output | HR Ground Truth |
 |:-----------:|:------------:|:---------------:|
-| ![](results/lr_0.png) | ![](results/sr_0.png) | ![](results/hr_0.png) |
+| ![](results/lr.png) | ![](results/sr.png) | ![](results/hr.png) |
 
 Insert these into your report/paper for qualitative comparison.
 
