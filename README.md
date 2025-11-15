@@ -131,7 +131,7 @@ Saved to: `/content/plots/`
 
 ---
 
-## 🖼 Qualitative Results
+## Qualitative Results
 
 **Sample outputs include:**
 
@@ -143,7 +143,7 @@ Insert these into your report/paper for qualitative comparison.
 
 ---
 
-## 📚 References
+## References
 
 - **SRCNN (Original Paper):**  
 _C. Dong, C.C. Loy, K. He, X. Tang_  
@@ -157,16 +157,7 @@ CVPR 2016
 
 ---
 
-## 📝 Future Work
-
-- Upgrade to deeper networks (VDSR, EDSR, SwinIR)
-- Add perceptual/VGG loss
-- Add GAN architecture (SRGAN)
-- Use DIV2K dataset for higher quality results
-
----
-
-## 💖 Author
+## Author
 
 **Yash (221EC263)**  
 NITK Surathkal  
